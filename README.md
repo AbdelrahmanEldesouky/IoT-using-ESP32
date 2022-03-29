@@ -17,15 +17,15 @@ Programming nodeMCU-32S using Arduino platform to connect with io.adafruit platf
 
 ### Schematic 
 
-![Schematic](/Home Control\Hardware\PCB Design\Schematic.png)
+![Schematic](\Home Control\Hardware\PCB Design\Schematic.png)
 
 ### Layout 
 
-![layout](/Home Control\Hardware\PCB Design\layout.PNG)
+![layout](\Home Control\Hardware\PCB Design\layout.PNG)
 
 ### PCB 3D View
 
-![3D](/Home Control\Hardware\PCB Design\3D#1.PNG)
+![3D](\Home Control\Hardware\PCB Design\3D#1.PNG)
 
-![3D](/Home Control\Hardware\PCB Design\3D#2.PNG)
+![3D](\Home Control\Hardware\PCB Design\3D#2.PNG)
 
