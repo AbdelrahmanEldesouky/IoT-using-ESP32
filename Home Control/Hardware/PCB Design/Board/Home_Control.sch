@@ -5498,7 +5498,7 @@ MOC3020-M.pdf</description>
 <text x="142.24" y="20.32" size="1.778" layer="94">Abdelrahman Eldesouky</text>
 <text x="88.9" y="10.16" size="2.1844" layer="94">Home control board 
 for contolling 4 AC devices by triac
-using PIR and 2 LDR</text>
+using PIR, LDR and DHT11</text>
 <wire x1="142.24" y1="86.36" x2="180.34" y2="86.36" width="0.1524" layer="94"/>
 <wire x1="43.18" y1="3.81" x2="43.18" y2="24.13" width="0.1524" layer="94"/>
 <wire x1="142.24" y1="129.54" x2="142.24" y2="86.36" width="0.1524" layer="94"/>
