@@ -21,11 +21,11 @@ Programming nodeMCU-32S using Arduino platform to connect with io.adafruit platf
 
 ### Layout 
 
-![layout](\Home Control\Hardware\PCB Design\layout.PNG)
+![layout](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/layout.PNG)
 
 ### PCB 3D View
 
-![3D](\Home Control\Hardware\PCB Design\3D#1.PNG)
+![3D](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/3D%231.PNG)
 
-![3D](\Home Control\Hardware\PCB Design\3D#2.PNG)
+![3D](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/3D%232.PNG)
 
