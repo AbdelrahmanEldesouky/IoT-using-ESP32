@@ -5,8 +5,8 @@
 
 
 /************************ wifi setup ************************/
-#define WIFI_SSID       "Saad El Desoky Office"
-#define WIFI_PASSWORD   "!#SAAD@saad@12345#!"
+#define WIFI_SSID       "Desoky"
+#define WIFI_PASSWORD   "12345678"
 
 /************************ MQTT setup ************************/
 #define IO_SERVER       "io.adafruit.com"
