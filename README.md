@@ -33,7 +33,7 @@ Check [data sheet](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/tree/
 
 ### PCB 3D View
 
-![3D#1](Home_Control/Hardware/PCB_Design/3D#1.png)
+![3D#1](Home_Control/Hardware/PCB_Design/3D1.png)
 
-![3D#2](Home_Control/Hardware/PCB_Design/3D#2.png)
+![3D#2](Home_Control/Hardware/PCB_Design/3D2.png)
 
