@@ -4,7 +4,7 @@
 
 Programming nodeMCU-32S using [Arduino code](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Software/HomeControl.ino) to connect with io.adafruit platform using MQTT protocol 
 
-![Dashboard](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Software/Dashboard.PNG)
+![Dashboard](Home_Control/Software/Dashboard.png)
 
 ## Hardware
 
@@ -17,21 +17,23 @@ Programming nodeMCU-32S using [Arduino code](https://github.com/AbdelrahmanEldes
 5. DHT11 
 6. LDR 
 
+Check [data sheet](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/tree/main/Home%20Control/Hardware/Datasheet) for used components. 
+
 ### Schematic 
 
-![Schematic](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/Schematic.png)
+![Schematic](Home_Control/Hardware/PCB_Design/Schematic.png)
 
 ### Layout 
 
-![layout](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/layout.PNG)
+![layout](Home_Control/Hardware/PCB_Design/layout.png)
 
-### Prototype 
+### Prototype
 
-![prototype](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/Prototype.jpg)
+![Prototype](Home_Control/Hardware/Prototype.jpg)
 
 ### PCB 3D View
 
-![3D](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/3D%231.PNG)
+![3D](Home_Control/Hardware/PCB_Design/3D#1.png)
 
-![3D](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Hardware/PCB%20Design/3D%232.PNG)
+![3D](Home_Control/Hardware/PCB_Design/3D#2.png)
 
