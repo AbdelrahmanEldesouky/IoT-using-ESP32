@@ -2,7 +2,7 @@
 
 ## Software 
 
-Programming nodeMCU-32S using [Arduino code](Home_Control/Software/HomeControl.ino) to connect with io.adafruit platform using MQTT protocol 
+Programming nodeMCU-32S using [Arduino code](Home_Control/Software/HomeControl/HomeControl.ino) to connect with io.adafruit platform using MQTT protocol 
 
 ![Dashboard](Home_Control/Software/Dashboard.png)
 
