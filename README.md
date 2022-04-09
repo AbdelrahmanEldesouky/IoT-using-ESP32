@@ -2,7 +2,7 @@
 
 ## Software 
 
-Programming nodeMCU-32S using [Arduino code](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/blob/main/Home%20Control/Software/HomeControl.ino) to connect with io.adafruit platform using MQTT protocol 
+Programming nodeMCU-32S using [Arduino code](Home_Control/Software/HomeControl.ino) to connect with io.adafruit platform using MQTT protocol 
 
 ![Dashboard](Home_Control/Software/Dashboard.png)
 
@@ -17,7 +17,7 @@ Programming nodeMCU-32S using [Arduino code](https://github.com/AbdelrahmanEldes
 5. DHT11 
 6. LDR 
 
-Check [data sheet](https://github.com/AbdelrahmanEldesouky/IoT-using-ESP32/tree/main/Home%20Control/Hardware/Datasheet) for used components. 
+Check [data sheet](Home_Control/Hardware/Datasheet) for used components. 
 
 ### Schematic 
 
